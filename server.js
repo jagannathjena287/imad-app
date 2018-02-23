@@ -30,7 +30,6 @@ var articles = {
             <p>
                 This is the content for my second article.
             </p>`
-        
     },
     'article-three': {     
         title: 'Article Three | Jagannath jena',
@@ -40,7 +39,6 @@ var articles = {
             <p>
                 This is the content for my third article.
             </p>`
-            
     }
 };
 
